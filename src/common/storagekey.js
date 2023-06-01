@@ -1,0 +1,17 @@
+export const Key = {
+  Account_Details: 'Account_Details',
+  IsLogin: 'IsLogin',
+  IsFirstTime: 'IsFirstTime',
+  UserName: 'UserName',
+  Email: 'Email',
+  Password: 'Password',
+  RememberPassword: 'RememberPassword',
+  Email_Notification: 'Email_Notification',
+  UserBioData: 'UserBioData',
+  First_Name: 'First_Name',
+  Last_Name: 'Last_Name',
+  MobileNo: 'MobileNo',
+  PaymentMethod: 'PaymentMethod',
+  Method: 'Method',
+  Profile_Img: 'Profile_Img',
+};
